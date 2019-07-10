@@ -1,0 +1,7 @@
+The format is:
+Lock Name
+Pin Diameter:
+Core Diameter:
+MACS:
+The way the key is read
+A table of values, such as that seen in the PDF archives, or in various other locations in the repo.
