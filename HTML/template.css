@@ -1,6 +1,3 @@
-body {
- text-align: center; 
-}
 h1, h2, th, td {
   text-align: center;
   font-size: 12px;
@@ -8,7 +5,8 @@ h1, h2, th, td {
 }
 table {
   border-collapse: collapse;
-  
+  margin-left: auto;
+  margin-right: auto;
 }
 table, th, td {
   border: 1px solid black;
